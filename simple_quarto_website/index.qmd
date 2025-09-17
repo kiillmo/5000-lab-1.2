@@ -1,0 +1,71 @@
+---
+title: "simple_quarto_website"
+author: Mohamed Elhag
+toc: true
+bibliography: reference.bib
+---
+# Lab 3
+## Git Quarto SCP
+### Quarto Website
+
+| 5000 | 5100 |
+|------|------|
+| Quiz | HW   |
+| Test | Proj.|
+
+
+we've all learned about $y = mx + b$, but the best equation is $$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$ because it looks prettier[^1]. Just hear it from our math experts!
+
+> I absolutely love the quadratic equation. There is nothing like it.
+
+:::: {layout-ncol=2}
+
+
+::: {#col1}
+- Lorem ipsum dolor sit amet
+
+- consectetur adipiscing elit
+:::
+
+::: {#col2}
+- sed do eiusmod tempor incididunt ut 
+
+- labore et dolore magna aliqua
+:::
+
+::::
+
+
+:::: {layout-ncol=2}
+
+::: {#Mohamed}
+![Mohamed](images/mohamed-elhag.JPG)
+:::
+
+::: {#Baby-Mohamed}
+![Baby Mohamed](images/baby-mohamed-elhag.jpg)
+:::
+
+::::
+
+
+{{< video https://www.youtube.com/watch?v=aircAruvnKk >}}
+
+```{mermaid}
+flowchart LR
+    A[Apply to Grad School] --> B(Get Accepted)
+    B --> C{Decision}
+    C -- Yes --> D[Suffer Through Class]
+    C -- No --> E[Suffer Through Regret]
+    D --> F[Cry]
+    E --> F
+```
+
+
+## References
+
+@zhou2021machine
+
+@lecun2015deep
+
+[^1]: this is an opinion, not a fact.

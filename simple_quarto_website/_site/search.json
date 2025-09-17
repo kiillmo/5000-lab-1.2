@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "5000\n5100\n\n\n\n\nQuiz\nHW\n\n\nTest\nProj.\n\n\n\nwe’ve all learned about \\(y = mx + b\\), but the best equation is \\[x = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}\\] because it looks prettier1. Just hear it from our math experts!\n\nI absolutely love the quadratic equation. There is nothing like it.\n\n\n\n\n\nLorem ipsum dolor sit amet\nconsectetur adipiscing elit\n\n\n\n\nsed do eiusmod tempor incididunt ut\nlabore et dolore magna aliqua\n\n\n\n\n\n\n\n\n\n\nMohamed\n\n\n\n\n\n\n\nBaby Mohamed\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n    A[Apply to Grad School] --&gt; B(Get Accepted)\n    B --&gt; C{Decision}\n    C -- Yes --&gt; D[Suffer Through Class]\n    C -- No --&gt; E[Suffer Through Regret]\n    D --&gt; F[Cry]\n    E --&gt; F\n\n\n\n\n\n\n\n\n\n\nZhou (2021)\nLeCun, Bengio, and Hinton (2015)"
+  },
+  {
+    "objectID": "index.html#git-quarto-scp",
+    "href": "index.html#git-quarto-scp",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "5000\n5100\n\n\n\n\nQuiz\nHW\n\n\nTest\nProj.\n\n\n\nwe’ve all learned about \\(y = mx + b\\), but the best equation is \\[x = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}\\] because it looks prettier1. Just hear it from our math experts!\n\nI absolutely love the quadratic equation. There is nothing like it.\n\n\n\n\n\nLorem ipsum dolor sit amet\nconsectetur adipiscing elit\n\n\n\n\nsed do eiusmod tempor incididunt ut\nlabore et dolore magna aliqua\n\n\n\n\n\n\n\n\n\n\nMohamed\n\n\n\n\n\n\n\nBaby Mohamed\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n    A[Apply to Grad School] --&gt; B(Get Accepted)\n    B --&gt; C{Decision}\n    C -- Yes --&gt; D[Suffer Through Class]\n    C -- No --&gt; E[Suffer Through Regret]\n    D --&gt; F[Cry]\n    E --&gt; F"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Zhou (2021)\nLeCun, Bengio, and Hinton (2015)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nthis is an opinion, not a fact.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "slides",
+    "section": "Slide 1",
+    "text": "Slide 1\nThis is the start of deep learning (LeCun, Bengio, and Hinton 2015)."
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "slides",
+    "section": "Slide 2",
+    "text": "Slide 2\nWhich one is cuter?:"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3",
+    "href": "slides/slides.html#slide-3",
+    "title": "slides",
+    "section": "Slide 3",
+    "text": "Slide 3\n\nPoint one\nPoint two\nPoint three\n\n\n\n\n\n\nLeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. 2015. “Deep Learning.” Nature 521 (7553): 436–44."
+  }
+]

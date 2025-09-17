@@ -39,7 +39,7 @@
     "href": "slides/slides.html#slide-1",
     "title": "slides",
     "section": "Slide 1",
-    "text": "Slide 1\nThis is the start of deep learning (LeCun, Bengio, and Hinton 2015)."
+    "text": "Slide 1\nLets do some Deep Learning (LeCun, Bengio, and Hinton 2015)."
   },
   {
     "objectID": "slides/slides.html#slide-2",
@@ -53,6 +53,6 @@
     "href": "slides/slides.html#slide-3",
     "title": "slides",
     "section": "Slide 3",
-    "text": "Slide 3\n\nPoint one\nPoint two\nPoint three\n\n\n\n\n\n\nLeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. 2015. “Deep Learning.” Nature 521 (7553): 436–44."
+    "text": "Slide 3\n\n\n\n\n\nLeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. 2015. “Deep Learning.” Nature 521 (7553): 436–44."
   }
 ]

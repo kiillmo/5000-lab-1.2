@@ -7,6 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: slides/slides.html
+        text: Slides
+      - href: about.html
+        text: About
       - about.ipynb
 
 format:
